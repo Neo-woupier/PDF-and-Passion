@@ -46,7 +46,7 @@ Recommended Compiler: pdfLaTeX (TeX Live 2020+, MiKTeX, or Overleaf).
 1. Clone this repository into your local workspace or upload assets directly to Overleaf:
 
 ```
-git clone [https://github.com/Neo-woupier/PDF-and-Passion.git](https://github.com/Neo-woupier/PDF-and-Passion.git)
+git clone https://github.com/Neo-woupier/PDF-and-Passion.git
 ```
 
 2. Ensure Me.jpg and Idol.jpg are present in the same root folder as Main.tex.
