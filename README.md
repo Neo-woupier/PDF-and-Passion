@@ -27,4 +27,27 @@ PDF-and-Passion/
 ├── Idol.jpg       # Mentor/Inspiration image asset
 └── behind.png     # Behind-the-scenes pipeline screenshot
 
+🛠️ System Requirements & Dependencies
+To locally compile or fork this project, your TeX distribution needs to support the following packages:
+
+xcolor - For terminal ANSI/Hex code color mapping (CMD_Black, VSCodeBG).
+
+graphicx - For processing and rendering geographic image bounds.
+
+hyperref - For compiling stable active anchor links inside the PDF.
+
+qrcode - For generating low-error vector QR codes on the fly.
+
+Recommended Compiler: pdfLaTeX (TeX Live 2020+, MiKTeX, or Overleaf).
+
+💻 How to Compile
+1. Clone this repository into your local workspace or upload assets directly to Overleaf:
+
+git clone [https://github.com/Neo-woupier/PDF-and-Passion.git](https://github.com/Neo-woupier/PDF-and-Passion.git)
+
+2. Ensure Me.jpg and Idol.jpg are present in the same root folder as Main.tex.
+
+3. t your internal compilation engine to pdfLaTeX.
+
+3. Hit Compile/Recompile. The machine will output a multi-page interactive PDF document.
 
