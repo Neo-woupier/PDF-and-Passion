@@ -51,3 +51,9 @@ git clone [https://github.com/Neo-woupier/PDF-and-Passion.git](https://github.co
 
 3. Hit Compile/Recompile. The machine will output a multi-page interactive PDF document.
 
+🧠 The "Passion" Logic (Behind the Logs)
+Inside the kernel log terminal page, you will find this core statement overridden into the system:
+
+"Just a kid trying to level up in life. When your background, family, and financial constraints leave absolutely no room for surrender... Even if you don't have a specific 'passion', the sheer refusal to give up BECOMES the passion itself."
+
+Developed with 💻, ☕, and pure discipline by NruNew (Neo-woupier).
