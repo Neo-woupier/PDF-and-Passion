@@ -26,6 +26,7 @@ PDF-and-Passion/
 ├── Me.jpg         # Profile picture asset
 ├── Idol.jpg       # Mentor/Inspiration image asset
 └── behind.png     # Behind-the-scenes pipeline screenshot
+'''text
 
 🛠️ System Requirements & Dependencies
 To locally compile or fork this project, your TeX distribution needs to support the following packages:
@@ -43,7 +44,9 @@ Recommended Compiler: pdfLaTeX (TeX Live 2020+, MiKTeX, or Overleaf).
 💻 How to Compile
 1. Clone this repository into your local workspace or upload assets directly to Overleaf:
 
+'''text
 git clone [https://github.com/Neo-woupier/PDF-and-Passion.git](https://github.com/Neo-woupier/PDF-and-Passion.git)
+'''text 
 
 2. Ensure Me.jpg and Idol.jpg are present in the same root folder as Main.tex.
 
